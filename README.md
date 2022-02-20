@@ -1,2 +1,5 @@
-# Finest.js
-The best discord bot on the market
+# Finst.js
+
+This bot is a rewrite of my bot that was written in python.
+
+This bot is using This[https://github.com/KevinNovak/Discord-Bot-TypeScript-Template] template
